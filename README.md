@@ -8,3 +8,4 @@ Learnig target: Goal to learn how to commit
 Target status: Started today and making some progress
 I’m learning how to make commits step by step.
 Goal is to come back again in 7 days and check progress
+Please do not use this for production use
